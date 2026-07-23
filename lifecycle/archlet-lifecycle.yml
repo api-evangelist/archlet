@@ -1,0 +1,27 @@
+generated: '2026-07-18'
+method: searched
+source: https://status.archlet.io/
+status_page: https://status.archlet.io/
+status_page_provider: Atlassian Statuspage
+status_components:
+- name: Data Centers
+  state: operational
+- name: EU Data Center
+  state: operational
+  uptime_90d: '99.99%'
+subscribe:
+- email
+- slack
+- rss
+- atom
+notes: >-
+  Archlet publishes an Atlassian Statuspage at status.archlet.io covering its
+  data-center infrastructure (EU data center 99.99% uptime over 90 days). No
+  public versioning policy, deprecation policy, or SLA document was found on the
+  public surface; the API surface is documented behind the authenticated app
+  (dev.archlet.io / app.archlet.io). Deprecation/versioning left unrecorded
+  rather than fabricated.
+versioning: null
+deprecation: null
+sla: null
+deprecated_operations: []

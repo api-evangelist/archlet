@@ -1,0 +1,45 @@
+URL: https://www.archlet.io/
+
+Title: Archlet | Elevate your sourcing experience
+
+Description: Archlet is a comprehensive, AI-native platform that accelerates and brings transparency to the sourcing process. The platform is designed to help procurement teams manage all types of sourcing events, from complex strategic ones to simple tactical ones, including auctions.
+
+Key Features:
+
+*   **Strategic Sourcing:** Manage complex and high-value sourcing events with advanced bid analytics and scenario optimization.
+*   **Tactical Sourcing:** Accelerate tactical sourcing through simple, collaborative workflows and rapid creation of sourcing events.
+*   **Sourcing Automation:** Use AI-powered automation for all types of RFx (Request for x) processes, from individual actions to complete end-to-end sourcing.
+
+Spark AI Engine:
+
+Spark is Archlet's AI engine that powers strategic, tactical, and "tail spend" sourcing. Spark understands data and processes, provides smart recommendations, and automates routine tasks.
+
+*   **Setup Agent:** Creates questionnaires, bid sheets, and cost formulas, providing an AI-guided setup process.
+*   **Auction Agent:** Analyzes the RFQ, recommends the best auction format, and automatically sets the parameters to maximize results.
+*   **Scenario Agent:** Generates sourcing scenarios based on a textual description of the rules, turning complex analysis into a simple conversation.
+*   **Summary Agent:** Provides instant summaries of RFx processes by scanning supplier bids and documents, combining them with existing data.
+
+Benefits and Results:
+
+*   **15%** faster sourcing cycles.
+*   **1-10%** cost savings without compromising on time or quality.
+*   **45%** higher supplier participation.
+*   **50%** reduction in cycle time (case study: PepsiCo).
+
+Clients:
+
+Archlet is used by leading organizations such as PepsiCo, TotalEnergies, Bosch, Walmart, FedEx, OMV, HACO, and Coventry.
+
+Industries and Categories:
+
+The platform is tailored for various industries and procurement categories:
+
+*   **Industries:** Consumer Goods, Retail & Distribution, Chemicals, Food & Beverage, Healthcare & Pharma, Oil & Gas, Transport & Logistics, Automotive, Manufacturing.
+*   **Categories:** Direct Materials, Logistics & Freight, Capex & MRO, Packaging, Services, Indirect Materials.
+
+Contact and Resources:
+
+*   **Website:** https://www.archlet.io/
+*   **Resources:** Blog, Resource Center, Feature Overview, SAP Partnership.
+*   **Company:** About Us, Careers, Partners.
+*   **Social Media:** LinkedIn, Instagram, YouTube, Twitter.

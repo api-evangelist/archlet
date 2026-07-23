@@ -1,0 +1,25 @@
+generated: '2026-07-18'
+method: searched
+probe: true
+url: https://trust.archlet.io/
+platform: Vanta
+certifications:
+- ISO 27001
+evidence:
+- source: https://trust.archlet.io/
+  keywords:
+  - trust center
+  - security
+  - compliance
+  - automation
+  detail: 'Vanta-powered trust center; page meta declares "Trust, Security, Compliance, Automation".'
+- source: https://archlet.io/product/integrations
+  keywords:
+  - iso 27001
+  detail: 'Integrations page states Archlet maintains ISO 27001 certification and supports SSO.'
+notes: >-
+  Trust center is a Vanta-hosted, client-rendered SPA at trust.archlet.io; the
+  full certification/document list loads via JavaScript and is not enumerable
+  from the initial HTML. ISO 27001 is confirmed from the public integrations
+  page. Additional attestations (e.g. SOC 2) may be listed inside the Vanta
+  portal but were not verified in raw HTML and are not asserted here.

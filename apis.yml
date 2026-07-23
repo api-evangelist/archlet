@@ -1,8 +1,26 @@
 aid: archlet
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/archlet.png
 name: Archlet
-description: 'Archlet is a company surfaced as a portfolio company of hv-capital and added to the API
-  Evangelist network as a stub for enrichment. Sector: ai-enterprise-software. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'Archlet is an AI-native eSourcing, sourcing-optimization and eAuction platform,
+  founded in 2018 in Zurich, Switzerland, that helps procurement teams run RFIs, RFPs, RFQs
+  and reverse auctions faster and with more transparency. Its Spark AI engine automates RFx
+  setup, auction configuration, scenario generation and bid summarization, while advanced bid
+  analytics and scenario optimization unlock savings across strategic, tactical and tail-spend
+  sourcing. Archlet exposes open, well-documented APIs for intake, CLM, reporting, supplier
+  management and data-lake integrations that sync bi-directionally with ERP and P2P systems such
+  as SAP, SAP Ariba, Coupa and Oracle. Trusted by enterprises including PepsiCo, TotalEnergies,
+  Bosch, Walmart and FedEx, and backed by HV Capital.'
 url: https://raw.githubusercontent.com/api-evangelist/archlet/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,13 +30,64 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Ai Enterprise Software
+- Procurement
+- Sourcing
+- eSourcing
+- eAuctions
+- Sourcing Optimization
+- Supply Chain
+- Spend Management
+- Enterprise Software
+- Artificial Intelligence
 apis: []
+common:
+- type: Website
+  url: https://archlet.io/
+- type: About
+  url: https://archlet.io/about
+- type: Integrations
+  url: https://archlet.io/product/integrations
+- type: Partners
+  url: https://archlet.io/partners
+- type: Login
+  url: https://app.archlet.io/sign-in
+- type: SignUp
+  url: https://archlet.io/request-a-demo
+- type: Blog
+  url: https://www.archlet.io/resources
+- type: Support
+  url: https://help.archlet.io/
+- type: HelpCenter
+  url: https://help.archlet.io/
+- type: TermsOfService
+  url: https://archlet.io/terms-of-use
+- type: TermsOfService
+  url: https://archlet.io/archlet-saas-terms
+- type: PrivacyPolicy
+  url: https://archlet.io/privacy-policy
+- type: StatusPage
+  url: https://status.archlet.io/
+- type: TrustCenter
+  url: https://trust.archlet.io/
+- type: Compliance
+  url: https://trust.archlet.io/
+- type: LLMsTxt
+  url: llms/archlet-llms.txt
+- type: Lifecycle
+  url: lifecycle/archlet-lifecycle.yml
+- type: DomainSecurity
+  url: security/archlet-domain-security.yml
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
